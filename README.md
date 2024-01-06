@@ -7,7 +7,7 @@
 "Bringing innovative solutions through machine learning and AI."
 
 🔭 **About Me:**
-- 🎓 Master of Science in Computational Sciences and Engineering from National University of Sciences and Technology, Islamabad.
+- 🎓 Master of Science in Computational Sciences and Engineering.
 - 🌱 Currently working as a Senior Machine Learning Engineer.
 - 💬 Passionate about research and development in computer vision and machine learning.
 
