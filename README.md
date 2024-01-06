@@ -1,4 +1,6 @@
-![Title Image](https://sbmalik.github.io/img/fast.gif)
+<p align="center">
+  <img src="https://sbmalik.github.io/img/fast.gif" alt="Title Image"/>
+</p>
 
 ### Hi there, I'm Subtain Malik! 👋
 
