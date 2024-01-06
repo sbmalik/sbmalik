@@ -1,3 +1,5 @@
+![Title Image](https://sbmalik.github.io/img/fast.gif)
+
 ### Hi there, I'm Subtain Malik! 👋
 
 "Bringing innovative solutions through machine learning and AI."
@@ -24,7 +26,7 @@
 
 📫 **Let's Connect:**
 - LinkedIn: [sbmalik](https://www.linkedin.com/in/sbmalik/)
-- GitHub: [sbmalik](https://github.com/sbmalik)
+- StackOverflow: [sbmalik](https://stackoverflow.com/users/8690378/sbmalik)
 
 📈 **My GitHub Stats:**
 
